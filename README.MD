@@ -23,7 +23,7 @@ A React Native mobile application for a music festival, allowing users to browse
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/tp-festival.git
+   git clone https://github.com/Netizor/react_native.tp-festival.git tp-festival
    cd tp-festival
    ```
 

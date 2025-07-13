@@ -86,3 +86,5 @@ _api/db.json
 
 # Configuration 
 constants/config.ts
+
+package-lock.json
